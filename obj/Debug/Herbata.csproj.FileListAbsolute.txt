@@ -1,0 +1,10 @@
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\bin\Debug\Herbata.exe.config
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\bin\Debug\Herbata.exe
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\bin\Debug\Herbata.pdb
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\obj\Debug\Herbata.csprojResolveAssemblyReference.cache
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\obj\Debug\Herbata.Form1.resources
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\obj\Debug\Herbata.Properties.Resources.resources
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\obj\Debug\Herbata.csproj.GenerateResource.Cache
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\obj\Debug\Herbata.exe
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\obj\Debug\Herbata.pdb
+C:\Users\melka\Documents\Visual Studio 2015\Projects\hackathon\Herbata\obj\Debug\Herbata.newTea.resources
